@@ -1,5 +1,5 @@
 ### Hi there, I'm Qu1ck1337 👋
-[![Qu1ck1337's GitHub stats](https://github-readme-stats.vercel.app/api?username=Qu1ck1337&show_icons=true&theme=tokyonight)]
+![Qu1ck1337's GitHub stats](https://github-readme-stats.vercel.app/api?username=Qu1ck1337&show_icons=true&theme=tokyonight)
 
 # Languages / Tools
 <div >
