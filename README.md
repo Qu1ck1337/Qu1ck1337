@@ -3,7 +3,7 @@
 
 # Languages / Tools
 <div >
-	<img src="https://skillicons.dev/icons?i=python,django,fastapi,html,css,js,react,cs,mongodb,postgresql,git,linux" />
+	<img src="https://skillicons.dev/icons?i=python,django,fastapi,html,css,js,react,cs,mongodb,postgresql,git,docker,linux" />
 </div>
 
 # Other stuff
