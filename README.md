@@ -6,10 +6,8 @@
 	<img src="https://skillicons.dev/icons?i=python,django,fastapi,html,css,js,react,cs,mongodb,postgresql,git,docker,linux" />
 </div>
 
-# Other stuff
-- 🌱 I'm currently learning `Django`
-- 🔍 Looking to collaborate with a team!
-- 📫 How to reach me: telegram @Qu1ck_1337
+# Links
+- [LeetCode](https://leetcode.com/u/Qu1ck_1337/)
 <!--
 **Qu1ck1337/Qu1ck1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
