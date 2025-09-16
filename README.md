@@ -6,9 +6,8 @@
 	<img src="https://skillicons.dev/icons?i=python,django,fastapi,html,css,js,react,cs,mongodb,postgresql,git,docker,linux,rabbitmq,kafka,postman" />
 </div>
 
-# Other stuff
-- 🌱 I'm currently breaking into AI
-- ✨ You also can find me on [LeetCode](https://leetcode.com/u/Qu1ck_1337/)
+# Links
+- ✨ [LeetCode](https://leetcode.com/u/Qu1ck_1337/)
 <!--
 **Qu1ck1337/Qu1ck1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
