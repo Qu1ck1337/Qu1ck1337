@@ -14,7 +14,7 @@
 - 🧠 Currently diving deep into machine learning fundamentals and experimenting with large language models for smarter tooling.
 - 🛠️ Love designing clean REST/gRPC APIs, background workers, and data-intensive pipelines.
 - 📈 Always hunting for performance wins—profiling queries, taming queues, and squeezing extra throughput out of infrastructure.
-- 🔁 Shipping pragmatic CI/CD with GitHub Actions and Jenkins, plus containerizing services with Docker on GCP.
+- 🔁 Shipping pragmatic CI/CD with GitHub Actions and Jenkins, plus hands-on time with Docker and GCP.
 
 ## 📊 GitHub Snapshot
 
