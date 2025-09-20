@@ -1,6 +1,7 @@
 <div align="center">
-  <h1>Hi there, I'm Qu1ck1337 👋</h1>
-  <p>Building reliable back-end services and delightful front-end experiences.</p>
+  <h1>Hey, I'm Qu1ck1337 👋</h1>
+  <p>Backend-focused developer tinkering with machine learning and AI-assisted tooling.</p>
+  <p>I enjoy shipping reliable services, automating workflows, and leveling up developer experience.</p>
   <a href="https://komarev.com/ghpvc/?username=Qu1ck1337">
     <img src="https://komarev.com/ghpvc/?username=Qu1ck1337&style=flat-square&color=blueviolet" alt="Profile views" />
   </a>
@@ -8,12 +9,12 @@
 
 ---
 
-## 🚀 Quick Facts
+## 🧾 TL;DR
 
-- 💡 Back-end leaning developer who enjoys crafting RESTful APIs, automation scripts, and interactive dashboards.
-- 🧠 Algorithm enthusiast constantly sharpening problem-solving skills on LeetCode.
-- 🤝 Open to collaborating on open-source tooling, developer productivity, or data-intensive projects.
-- 📬 Reach out through issues or discussions—always happy to connect.
+- 🧠 Currently diving deep into machine learning fundamentals and experimenting with large language models for smarter tooling.
+- 🛠️ Love designing clean REST/gRPC APIs, background workers, and data-intensive pipelines.
+- 📈 Always hunting for performance wins—profiling queries, taming queues, and squeezing extra throughput out of infrastructure.
+- 🤝 Happy to collaborate on open-source projects, especially around automation, AI-assisted dev tools, and observability.
 
 ## 📊 GitHub Snapshot
 
@@ -21,17 +22,25 @@
 | --- | --- |
 | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qu1ck1337&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" /> | <img src="https://github-profile-trophy.vercel.app/?username=Qu1ck1337&theme=tokyonight&no-frame=true&column=3&margin-w=15&margin-h=15" alt="GitHub trophies" /> |
 
-## 🧰 Tech Toolbox
+## 🧠 Focus & Learning
+
+- **ML Foundations:** sharpening math intuition, building data workflows, and training/evaluating models end-to-end.
+- **LLM Playground:** running open-source LLMs locally, comparing inference strategies, and crafting prompts/agents that are genuinely helpful.
+- **Service Engineering:** evolving resilient microservices, async processing, and telemetry-rich observability stacks.
+
+## 🧰 Toolbox
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,html,css,js,react,cs,mongodb,postgresql,git,docker,linux,rabbitmq,kafka,postman&perline=8" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,postgresql,redis,mongodb,sqlite,git,docker,linux&perline=5" alt="Back-end stack" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,react,js,ts,html,css,bootstrap&perline=5" alt="ML and front-end toolkit" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,bash,powershell,githubactions&perline=5" alt="Cloud and automation" />
 </div>
 
-## 🌱 Currently Exploring
+## 🧪 What I'm Experimenting With
 
-- Scaling asynchronous services with message queues like RabbitMQ and Kafka.
-- Enhancing front-end experiences with modern React tooling.
-- Sharing knowledge via write-ups, gists, and code reviews.
+- Building lightweight evaluation harnesses to benchmark LLM responses for code-generation and review tasks.
+- Mixing vector databases with traditional search to deliver context-aware assistants.
+- Documenting findings through gists and repos so others can reproduce and iterate.
 
 ## 🔗 Find Me Around the Web
 
