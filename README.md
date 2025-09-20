@@ -14,6 +14,7 @@
 - 🧠 Currently diving deep into machine learning fundamentals and experimenting with large language models for smarter tooling.
 - 🛠️ Love designing clean REST/gRPC APIs, background workers, and data-intensive pipelines.
 - 📈 Always hunting for performance wins—profiling queries, taming queues, and squeezing extra throughput out of infrastructure.
+- 🔁 Shipping pragmatic CI/CD with GitHub Actions and Jenkins, plus containerizing services with Docker on GCP.
 
 ## 📊 GitHub Snapshot
 
@@ -30,9 +31,9 @@
 ## 🧰 Toolbox
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,postgresql,redis,mongodb,sqlite,git,docker,linux&perline=5" alt="Back-end stack" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,postgresql,redis,mongodb,sqlite,git,docker,linux&perline=5" alt="Back-end stack" />
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,react,js,ts,html,css,bootstrap&perline=5" alt="ML and front-end toolkit" />
-  <img src="https://skillicons.dev/icons?i=aws,gcp,bash,powershell,githubactions&perline=5" alt="Cloud and automation" />
+  <img src="https://skillicons.dev/icons?i=gcp,githubactions,jenkins,bash&perline=4" alt="Cloud and automation" />
 </div>
 
 ## 🧪 What I'm Experimenting With
