@@ -13,7 +13,6 @@
 
 - 🧠 Currently diving deep into machine learning fundamentals and experimenting with large language models for smarter tooling.
 - 🛠️ Love designing clean REST/gRPC APIs, background workers, and data-intensive pipelines.
-- 📈 Always hunting for performance wins—profiling queries, taming queues, and squeezing extra throughput out of infrastructure.
 - 🔁 Shipping pragmatic CI/CD with GitHub Actions and Jenkins, plus hands-on time with Docker and GCP.
 
 ## 📊 GitHub Snapshot
@@ -39,34 +38,13 @@
     </tr>
     <tr>
       <td align="center" style="padding: 8px 16px;">
-        <img src="https://skillicons.dev/icons?i=python" alt="Python" height="48" style="margin: 6px;" />
-        <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" height="48" style="margin: 6px;" />
-        <img src="https://skillicons.dev/icons?i=django" alt="Django" height="48" style="margin: 6px;" />
-        <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" height="48" style="margin: 6px;" />
-        <img src="https://skillicons.dev/icons?i=redis" alt="Redis" height="48" style="margin: 6px;" />
-        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="48" style="margin: 6px;" />
-        <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" height="48" style="margin: 6px;" />
-        <img src="https://skillicons.dev/icons?i=git" alt="Git" height="48" style="margin: 6px;" />
-        <img src="https://skillicons.dev/icons?i=docker" alt="Docker" height="48" style="margin: 6px;" />
-        <img src="https://skillicons.dev/icons?i=linux" alt="Linux" height="48" style="margin: 6px;" />
+        <img src="https://skillicons.dev/icons?i=python,fastapi,django,postgresql,redis,mongodb,sqlite,git,docker,linux&amp;perline=5" alt="Backend and data toolkit" />
       </td>
       <td align="center" style="padding: 8px 16px;">
-        <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" height="48" style="margin: 6px;" />
-        <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" height="48" style="margin: 6px;" />
-        <img src="https://skillicons.dev/icons?i=sklearn" alt="scikit-learn" height="48" style="margin: 6px;" />
-        <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" height="48" style="margin: 6px;" />
-        <img src="https://skillicons.dev/icons?i=react" alt="React" height="48" style="margin: 6px;" />
-        <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="48" style="margin: 6px;" />
-        <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" height="48" style="margin: 6px;" />
-        <img src="https://skillicons.dev/icons?i=html" alt="HTML" height="48" style="margin: 6px;" />
-        <img src="https://skillicons.dev/icons?i=css" alt="CSS" height="48" style="margin: 6px;" />
-        <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" height="48" style="margin: 6px;" />
+        <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,react,js,ts,html,css,bootstrap&amp;perline=5" alt="ML and frontend toolkit" />
       </td>
       <td align="center" style="padding: 8px 16px;">
-        <img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud" height="48" style="margin: 6px;" />
-        <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" height="48" style="margin: 6px;" />
-        <img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" height="48" style="margin: 6px;" />
-        <img src="https://skillicons.dev/icons?i=bash" alt="Bash" height="48" style="margin: 6px;" />
+        <img src="https://skillicons.dev/icons?i=gcp,githubactions,jenkins,bash&amp;perline=4" alt="Cloud and automation toolkit" />
       </td>
     </tr>
   </table>
