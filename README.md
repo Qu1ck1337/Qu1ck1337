@@ -33,7 +33,8 @@
   <table>
     <tr>
       <th>Backend &amp; Data</th>
-      <th>ML &amp; Frontend</th>
+      <th>Machine Learning</th>
+      <th>Frontend</th>
       <th>Cloud &amp; Automation</th>
     </tr>
     <tr>
@@ -41,7 +42,10 @@
         <img src="https://skillicons.dev/icons?i=python,fastapi,django,postgresql,redis,mongodb,sqlite,git,docker,linux&amp;perline=5" alt="Backend and data toolkit" />
       </td>
       <td align="center" style="padding: 8px 16px;">
-        <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,react,js,ts,html,css,bootstrap&amp;perline=5" alt="ML and frontend toolkit" />
+        <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&amp;perline=4" alt="Machine learning toolkit" />
+      </td>
+      <td align="center" style="padding: 8px 16px;">
+        <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,bootstrap&amp;perline=6" alt="Frontend toolkit" />
       </td>
       <td align="center" style="padding: 8px 16px;">
         <img src="https://skillicons.dev/icons?i=gcp,githubactions,jenkins,bash&amp;perline=4" alt="Cloud and automation toolkit" />
