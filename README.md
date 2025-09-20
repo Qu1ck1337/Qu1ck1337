@@ -14,7 +14,6 @@
 - 🧠 Currently diving deep into machine learning fundamentals and experimenting with large language models for smarter tooling.
 - 🛠️ Love designing clean REST/gRPC APIs, background workers, and data-intensive pipelines.
 - 📈 Always hunting for performance wins—profiling queries, taming queues, and squeezing extra throughput out of infrastructure.
-- 🤝 Happy to collaborate on open-source projects, especially around automation, AI-assisted dev tools, and observability.
 
 ## 📊 GitHub Snapshot
 
@@ -38,9 +37,9 @@
 
 ## 🧪 What I'm Experimenting With
 
-- Building lightweight evaluation harnesses to benchmark LLM responses for code-generation and review tasks.
-- Mixing vector databases with traditional search to deliver context-aware assistants.
-- Documenting findings through gists and repos so others can reproduce and iterate.
+- Prototyping personal LLM pipelines—trying different open-source and hosted models to streamline daily tasks (like the interview-debrief analyzer I built for myself).
+- Exploring retrieval-augmented setups along with text2SQL, text2text, and audio2text models to boost research and automation workflows.
+- Capturing what works (and what doesn't) so future me—and anyone following along—can reuse the best setups.
 
 ## 🔗 Find Me Around the Web
 
